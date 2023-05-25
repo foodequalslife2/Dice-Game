@@ -1,2 +1,2 @@
 # Dice-Game
-It is a radiational dice-game played every Mid-Autumn Season Chinese-Filipino 
+It is a traditional  dice-game played every Mid-Autumn Season Chinese-Filipino 
